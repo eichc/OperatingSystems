@@ -1,0 +1,11 @@
+P3548376: solving the Abridged (m,n)-Queens problem for 3x3 board
+P3548376: 3 possible moves at row #0; creating 3 child processes...
+P3548377: 1 possible move at row #1; creating 1 child process...
+P3548378: dead end at row #2; notifying top-level parent
+P3548379: dead end at row #1; notifying top-level parent
+P3548380: 1 possible move at row #1; creating 1 child process...
+P3548381: dead end at row #2; notifying top-level parent
+P3548376: search complete
+P3548376: number of 1-Queen end-states: 1
+P3548376: number of 2-Queen end-states: 2
+P3548376: number of 3-Queen end-states: 0

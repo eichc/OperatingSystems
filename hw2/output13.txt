@@ -1,0 +1,11 @@
+P3548535: solving the Abridged (m,n)-Queens problem for 8x8 board
+P3548535: 8 possible moves at row #0; creating 8 child processes...
+P3548535: search complete
+P3548535: number of 1-Queen end-states: 0
+P3548535: number of 2-Queen end-states: 0
+P3548535: number of 3-Queen end-states: 0
+P3548535: number of 4-Queen end-states: 18
+P3548535: number of 5-Queen end-states: 150
+P3548535: number of 6-Queen end-states: 256
+P3548535: number of 7-Queen end-states: 220
+P3548535: number of 8-Queen end-states: 92

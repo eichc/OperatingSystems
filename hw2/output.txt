@@ -1,0 +1,7 @@
+8650: solving the Abridged (m,n)-Queens problem for 4x4 board
+8650: 4 possible moves at row #0; creating 4 child processes...
+8650: search complete
+8650: number of 1-Queen end-states: 0
+8650: number of 2-Queen end-states: 2
+8650: number of 3-Queen end-states: 2
+8650: number of 4-Queen end-states: 2
